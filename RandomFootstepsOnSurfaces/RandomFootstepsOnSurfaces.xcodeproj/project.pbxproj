@@ -10,7 +10,7 @@
 		FEB4340E1E95450800A7D5E1 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEB4340D1E95450800A7D5E1 /* AppDelegate.swift */; };
 		FEB434151E95450800A7D5E1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FEB434141E95450800A7D5E1 /* Assets.xcassets */; };
 		FEB434181E95450800A7D5E1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEB434161E95450800A7D5E1 /* LaunchScreen.storyboard */; };
-		FEB434201E95453700A7D5E1 /* Main.storyboard in Sources */ = {isa = PBXBuildFile; fileRef = FEB4341F1E95453700A7D5E1 /* Main.storyboard */; };
+		FEB434201E95453700A7D5E1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FEB4341F1E95453700A7D5E1 /* Main.storyboard */; };
 		FEF0CE0C1E957E7D00FA4922 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FEF0CE0B1E957E7D00FA4922 /* ViewController.swift */; };
 		FEF0CE551E957FCC00FA4922 /* dirtRun1.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEF0CE3D1E957FCC00FA4922 /* dirtRun1.mp3 */; };
 		FEF0CE561E957FCC00FA4922 /* dirtRun2.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = FEF0CE3E1E957FCC00FA4922 /* dirtRun2.mp3 */; };
@@ -204,6 +204,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FEB434201E95453700A7D5E1 /* Main.storyboard in Resources */,
 				FEF0CE6B1E957FCC00FA4922 /* grassWalk5.mp3 in Resources */,
 				FEF0CE5A1E957FCC00FA4922 /* dirtRun6.mp3 in Resources */,
 				FEF0CE601E957FCC00FA4922 /* dirtWalk6.mp3 in Resources */,
@@ -241,7 +242,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				FEF0CE0C1E957E7D00FA4922 /* ViewController.swift in Sources */,
-				FEB434201E95453700A7D5E1 /* Main.storyboard in Sources */,
 				FEB4340E1E95450800A7D5E1 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
